@@ -1,2 +1,5 @@
-# theoork
-Tech News Website
+# theoork01
+
+[URL](https://theoork.pages.dev/)
+
+https://theoork.buzz/

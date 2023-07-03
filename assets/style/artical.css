@@ -1,0 +1,13 @@
+.carousel-item img {
+    object-fit: cover;
+    height: 500px; 
+    display: block;
+    margin: 0 auto;
+  }
+  @media (max-width: 767px) {
+    .carousel-item img {
+      height: 200px; 
+      object-position: top;
+    }}
+
+
